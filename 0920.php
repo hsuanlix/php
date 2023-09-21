@@ -35,7 +35,7 @@
     $abs=abs($num[b]-$num[a]);
     $absA=abs($num[c]-$num[b]);
     if($abs==$absA,$_SESSION['count']>=9){
-        echo"試了十次或以找到數字了";
+        echo"試了十次或已找到數字了";
     }
 
     
